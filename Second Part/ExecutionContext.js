@@ -1,5 +1,5 @@
 //Execution context is a container where the functions code is executed and it is created 
-//WhenEver afunction is called,and it contains 3 things variable, function and lexical Environment.
+//WhenEver a function is called,and it contains 3 things variable, function and lexical Environment.
 
 function abcd(){
      var a =4;

@@ -14,4 +14,4 @@
  function abcd(a){
      a();
  }
- abcd(function(){console.log("Hello")})// In this function is used as variablef 
+ abcd(function(){console.log("Hello")})// In this function is used as variable.

@@ -19,6 +19,8 @@ console.log("Hey")
 
 
 
+
+
 //Asyn Await is used to to reduce the use of .then
 async function abc(){
      let raw = await fetch(`https://randomuser.me/api/`);
