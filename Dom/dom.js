@@ -19,7 +19,9 @@ a.addEventListener("click",function(){
  let btn = document.querySelector(".btn")
  let light = 0
  btn.addEventListener("click",function(){
+    console.log(btn)
      if(light == 0){
+        
            btn.innerHTML = "On"
      bulb.style.backgroundColor = "yellow"
      light = 1
